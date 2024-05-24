@@ -1,2 +1,3 @@
 # Open-Set-Recognition
-OSR implement w/ pytorch
+
+## PROSER(2021 CVPR)
