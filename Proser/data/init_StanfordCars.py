@@ -12,7 +12,7 @@ import scipy.io as sio
 
 
 
-imageRoot = "/mimer/NOBACKUP/groups/alvis_cvl/Fahad/vision_tasks_L/ybxmw/dataRoot/FGVC"
+imageRoot = "dataRoot/FGVC"
 origin_path = os.path.join(imageRoot,'Stanford_Car')
 
 matFile = os.path.join(origin_path,'cars_annos.mat')
