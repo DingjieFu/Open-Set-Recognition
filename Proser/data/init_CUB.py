@@ -11,7 +11,7 @@ import numpy as np
 
 
 
-imageRoot = "/mimer/NOBACKUP/groups/alvis_cvl/Fahad/vision_tasks_L/ybxmw/dataRoot/FGVC"
+imageRoot = "dataRoot/FGVC"
 origin_path = imageRoot + "/CUB/CUB_200_2011"
 
 # get image paths
